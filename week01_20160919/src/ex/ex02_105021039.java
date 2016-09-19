@@ -1,11 +1,11 @@
 package ex;
 /*
- * Topic: 隢神銝��蝔�霈蝙�刻�頛詨擃��桐� "�祆"嚗��� "蝤� (1蝤�= 0.45359 �祆)
+ * Topic:請寫一個程式讓使用者輸入體重單位 "公斤"，轉換成 "磅" (1磅 = 0.45359 公斤)
  * Date: 2016/09/19
- * Author: 1050210XX �冽偶�航�撣�
+ * Author: 105021039 廖野吉
  */
 import java.util.Scanner;
-public class ex02_1050210XX {
+public class ex02_105021039 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
